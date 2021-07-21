@@ -1,0 +1,4 @@
+hc_sr04.c:12:6:delay_us	16	static
+hc_sr04.c:20:13:set_trigger	8	static
+hc_sr04.c:27:17:HCSR04_get_measure	8	static
+hc_sr04.c:42:10:HCSR04_get_distance_cm	16	static
